@@ -1,4 +1,4 @@
-# 🧪 Security Monitoring & SIEM Fundamentals
+#  Security Monitoring & SIEM Fundamentals
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-blue)
