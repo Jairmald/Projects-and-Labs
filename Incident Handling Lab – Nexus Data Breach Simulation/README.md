@@ -204,6 +204,6 @@ This lab demonstrated practical application of the **NIST SP 800-61 incident res
 
 ---
 
-**Lab Completed:** [Date]  
-**Author:** [Your Name]  
-**Contact:** [Your Email / GitHub / Portfolio]
+**Lab Completed:** 10/15/2025
+**Author:** Jair Maldonado 
+**Contact:** jairmyl1@gmail.com | https://github.com/Jairmald 
