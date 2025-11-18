@@ -1,4 +1,4 @@
-# 🌐 Computer Networks Lab
+# Enterprise Network Infrastructure
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-Cisco%20Networking-blue)
