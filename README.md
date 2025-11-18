@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 What Are These?
+##  What Are These?
 
 A collection of **comprehensive technical lab reports** documenting real-world security implementations, attack detection workflows, and compliance-driven hardening procedures. Each report walks through the entire lifecycle—from initial assessment through remediation and validation.
 
@@ -13,7 +13,7 @@ These aren't just screenshots and notes. They're detailed documentation of secur
 
 ---
 
-## 📚 Why Lab Reports?
+## Why Lab Reports?
 
 ✅ **Portfolio Building** - Showcase technical depth and practical security knowledge  
 ✅ **Knowledge Reference** - Step-by-step procedures for real-world implementations  
