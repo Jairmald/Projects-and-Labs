@@ -32,5 +32,3 @@ Each one is a deep technical dive into how enterprise security actually works.
 
 ---
 
-**Status:** 🟢 In Progress  
-**Last Updated:** November 2025
