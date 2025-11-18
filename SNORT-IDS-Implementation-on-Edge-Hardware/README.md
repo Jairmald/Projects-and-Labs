@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Intrusion%20Detection-blue)
 ![Tools](https://img.shields.io/badge/Tools-SNORT%20%26%20Raspberry%20Pi-orange)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-yellow)
-![Duration](https://img.shields.io/badge/Duration-2-3%20Hours-lightblue)
+![Duration](https://img.shields.io/badge/Duration-2--3%20Hours-lightblue)
 
 ---
 
@@ -472,3 +472,4 @@ Organizations should consider SNORT deployment for network perimeter defense, co
 - Raspberry Pi Network Configuration: https://www.raspberrypi.org/documentation/configuration/tcpip/
 
 ---
+
