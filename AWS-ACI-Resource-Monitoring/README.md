@@ -143,7 +143,8 @@ The objective of this lab is to gain hands-on experience implementing **comprehe
 <summary>Click to view screenshots and deployment architecture</summary>
 
 ### Screenshot 1: Initial Lab Setup and Architecture Topology
-![Lab Topology - Initial Setup](./screenshots/01-lab-topology-setup.png)
+![Lab Topology - Initial Setup](<img width="978" height="590" alt="image" src="https://github.com/user-attachments/assets/724f9e89-a4a4-4c2c-8ea6-5157b6813078" />
+)
 
 **Description:** The diagram above illustrates the complete lab architecture including:
 - **Compute Layer:** Three EC2 instances (Server_1, Server_2, Server_3) configured for monitoring
@@ -161,7 +162,8 @@ The objective of this lab is to gain hands-on experience implementing **comprehe
 - Tested metric data flowing into CloudWatch within 1-2 minutes of instance startup
 
 ### Screenshot 2: CloudWatch Dashboard with CPU Alarm Configuration
-![CloudWatch Dashboard with Alarm](./screenshots/02-cloudwatch-dashboard-alarm.png)
+![CloudWatch Dashboard with Alarm](<img width="1153" height="699" alt="image" src="https://github.com/user-attachments/assets/48f45bc9-a37c-4e88-a3ce-3afaef168063" />
+
 
 **Description:** The dashboard screenshot demonstrates:
 - **Main Widget:** CPU Utilization graph displaying time-series data from all 3 servers
@@ -205,6 +207,7 @@ Metrics Displayed:
 
 ### Screenshot 3: Email Notification Alert Received
 ![Email Notification - CloudWatch Alarm Alert](./screenshots/03-email-notification-alert.png)
+<img width="1467" height="396" alt="image" src="https://github.com/user-attachments/assets/489f29f0-0486-48d6-bee9-0a189bd681be" />
 
 **Description:** The email notification screenshot provides evidence of:
 - **Sender:** AWS Notifications <sns@aws.amazonaws.com> (official SNS sender)
